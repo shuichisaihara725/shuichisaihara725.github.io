@@ -102,7 +102,7 @@ line-height: 1.4;
   object-fit: cover;
   display: block;
   border-radius: 15px;
-  filter: grayscale(0%);
+  filter: grayscale(100%);
   box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
   transition:
     filter 0.4s ease,
